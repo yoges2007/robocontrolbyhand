@@ -1,4 +1,3 @@
-# robocontrolnyhand
 # Gesture Mech — Agentic AI Robot Control Interface 🤖
 # Dev/Creator= tubakhxn
 
